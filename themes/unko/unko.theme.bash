@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-SCM_THEME_PROMPT_PREFIX=" ${reset_color}[${green}"
-SCM_THEME_PROMPT_SUFFIX="${reset_color}]"
+SCM_THEME_PROMPT_PREFIX=" ${reset_color}(${green}"
+SCM_THEME_PROMPT_SUFFIX="${reset_color})"
 SCM_THEME_PROMPT_DIRTY=" ${yellow}⚡"
 SCM_THEME_PROMPT_CLEAN=" "
 
